@@ -93,7 +93,7 @@ sous_frame_pression.pack(fill="both", expand=True, padx=10, pady=5, side = "righ
 pression_data = tk.Label(sous_frame_temperature, text="")
 pression_data.pack(padx=10, pady=5)
 
-t
+tt
 
 
 FF.mainloop()
