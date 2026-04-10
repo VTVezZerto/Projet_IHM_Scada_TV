@@ -8,3 +8,4 @@ def envoyer_trame(port, baudrate, requete):
     reponse = ser.read(15)
     print(reponse.hex())
     return reponse.hex()
+t
